@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class ass{
     public static void main(String[] args) {
-        /* Akintola Akintayo Solomon */
-        /* 2302031 23CD0101115 */
+        /* Bolarinwa Favour Oluwanifemi */
+        /* 2303784 23CD010152 */
         Scanner input = new Scanner(System.in);
         double mean, total_num, part_1, part_2 ,part_3;
         Double[] numbers={2.0,5.0,5.0,9.0,4.0,7.0,0.0,9.0,6.0,11.0,12.0};
@@ -138,5 +138,3 @@ public class ass{
                 }
     }
 }
-/* Akintola Akintayo Solomon */
-/* 2302031 23CD0101115 */
